@@ -1,8 +1,4 @@
-/*
- * Mandelbrot Set Program
- * Author: J Femister
- * Date: August 2015
- */
+
 
 import java.awt.Canvas
 import java.awt.Color
